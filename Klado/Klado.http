@@ -1,0 +1,6 @@
+@Klado_HostAddress = http://localhost:5215
+
+GET {{Klado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
